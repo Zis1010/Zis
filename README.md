@@ -1,2 +1,1 @@
-# Zis
-Best programmer
+Hello, My name is Zis!
